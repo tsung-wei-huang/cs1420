@@ -28,9 +28,9 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 # Labs
 
-| Lab      | Topic  | 
-| :-:      | :-:    |
-| 09/03/21 | hello-world |
+| Lab      | Topic  | Note |
+| :-:      | :-:    | :-:  |
+| 09/03/21 | hello-world | [Online GDB](https://www.onlinegdb.com/) |
 
 # Exams
 
