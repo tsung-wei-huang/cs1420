@@ -25,6 +25,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
 | 09/03/21 | [Introduction to Programming](slides/lecture1.pdf) | - | - |
+| 09/10/21 | [Basic Input/Output in C++](slides/lecture2.pdf) | - | - |
 
 # Labs
 
