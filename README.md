@@ -38,7 +38,9 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 ## Midterm: TBD
 
-# Grade: TBD
+# Grade: 
+
+The grade sheet is available [here](https://docs.google.com/spreadsheets/d/1-UcFXgP9A3SDcwU_f5XxV68YFjVbHQeYIMI3m8mGtkI/edit#gid=0).
 
 
 ---
