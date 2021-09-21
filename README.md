@@ -27,6 +27,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/03/21 | [Introduction to Programming](slides/lecture1.pdf) | - | - |
 | 09/10/21 | [Basic Input/Output in C++](slides/lecture2.pdf) | - | - |
 | 09/17/21 | [Control Statements - Part I](slides/lecture3.pdf) | - | - |
+| 09/24/21 | no lecture (mid-harvest festival | - | - |
 
 # Labs
 
