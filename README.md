@@ -29,6 +29,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/17/21 | [Control Statements - Part I](slides/lecture3.pdf) | - | - |
 | 09/24/21 | no lecture (mid-harvest festival) | - | - |
 | 10/01/21 | [Control Statements - Part II](slides/lecture4.pdf) | - | - |
+| 10/08/21 | [Control Statements - Part III](slides/lecture5.pdf) | - | - |
 
 # Lab and Assignments
 
@@ -37,6 +38,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/03/21 | hello-world | [Online GDB](https://www.onlinegdb.com/) |
 | 09/17/21 | control flow | - |
 | 10/01/21 | iteration | [PA1](PAs/PA1.docx) due on 23:59 10/08 |
+| 10/08/21 | switch    | [PA2](PAs/PA2.docx) due on 23:59 10/15 |
 
 # Exams
 
