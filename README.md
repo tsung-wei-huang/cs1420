@@ -31,7 +31,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/01/21 | [Control Statements - Part II](slides/lecture4.pdf) | - | - |
 | 10/08/21 | [Control Statements - Part III](slides/lecture5.pdf) | - | - |
 | 10/15/21 | [Function](slides/lecture6.pdf) | - | - |
-| 10/22/21 | [Recursion](slides/lecture7.pdf)] | - | - |
+| 10/22/21 | [Recursion](slides/lecture7.pdf) | - | - |
  
 # Lab and Assignments
 
