@@ -31,7 +31,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/01/21 | [Control Statements - Part II](slides/lecture4.pdf) | - | - |
 | 10/08/21 | [Control Statements - Part III](slides/lecture5.pdf) | - | - |
 | 10/15/21 | [Function](slides/lecture6.pdf) | - | - |
-
+| 10/22/21 | [Recursion](slides/lecture7.pdf)] | - | - |
+ 
 # Lab and Assignments
 
 | Lab      | Topic  | Note |
@@ -41,6 +42,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/01/21 | iteration | [PA1](PAs/PA1.docx) due on 23:59 10/08 (Mountain Time) |
 | 10/08/21 | switch    | [PA2](PAs/PA2.docx) due on 23:59 10/15 (Mountain Time) |
 | 10/15/21 | function  | [PA3](PAs/PA3.docx) due on 23:59 10/22 (Mountain Time) |
+| 10/22/21 | recursion | [PA4](PAs/PA4.docx) due on 23:59 10/29 (Mountain Time) |
 
 # Exams
 
