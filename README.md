@@ -44,7 +44,27 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 # Exams
 
-## Midterm: TBD
+
+## Midterm: 10/29 - 11/5 (take-home exam)
+
+We will have our first midterm on the week of 10/29 - 11/5.
+There are a couple of things to know:
+
+  + Midterm will be take-home
+  + Midterm will cover both concept and programming questions we have lectured so far
+  + Midterm will count for *10-30%* of your final grade (PS: the actual ratio may be adjusted)
+
+We believe learning how to find solutions using the internet and your social network is important in today's software engineering landscape.
+As a result, you are completely free to:
+  + use the internet resources
+  + discuss the questions with your friends
+
+However, this doesn't mean you can simply copy the solutions from others.
+We trust you but don't take it for granted. 
+Ultimately, it is your knowledge and career, not ours.
+Never violate the [rules of academic integrity](https://regulations.utah.edu/academics/6-400.php). 
+
+You will need to upload your solution through Canvas by the end of 11/5.
 
 # Grade: 
 
