@@ -32,6 +32,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/08/21 | [Control Statements - Part III](slides/lecture5.pdf) | - | - |
 | 10/15/21 | [Function](slides/lecture6.pdf) | - | - |
 | 10/22/21 | [Recursion](slides/lecture7.pdf) | - | - |
+| 10/29/21 | [Midterm](exams/midterm-1.docx) | - | - |
  
 # Lab and Assignments
 
@@ -66,7 +67,7 @@ We trust you but don't take it for granted.
 Ultimately, it is your knowledge and career, not ours.
 Never violate the [rules of academic integrity](https://regulations.utah.edu/academics/6-400.php). 
 
-You will need to upload your solution through Canvas by the end of 11/5.
+You will need to upload your solution through Canvas by the end of 11/5. 
 
 # Grade: 
 
