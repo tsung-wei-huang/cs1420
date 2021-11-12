@@ -34,6 +34,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/22/21 | [Recursion](slides/lecture7.pdf) | - | - |
 | 10/29/21 | [Midterm](exams/midterm-1.docx) | - | - |
 | 11/05/21 | [Vector and Array](slides/lecture8.pdf) | - | - |
+| 11/12/21 | [Pointer](slides/lecture9.pdf) | - | - |
  
 # Lab and Assignments
 
@@ -46,6 +47,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/15/21 | function  | [PA3](PAs/PA3.docx) due on 23:59 10/22 (Mountain Time) |
 | 10/22/21 | recursion | [PA4](PAs/PA4.docx) due on 23:59 10/29 (Mountain Time) |
 | 11/05/21 | vector    | [PA5](PAs/PA5.docx) due on 23:59 11/12 (Mountain Time) |
+| 11/12/21 | pointer   | [PA6](PAs/PA6.docx) due on 23:50 11/19 (Mountain Time) |
 
 # Exams
 
