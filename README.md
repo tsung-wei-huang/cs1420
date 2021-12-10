@@ -38,6 +38,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/19/21 | [File Access](slides/lecture10.pdf) | - | - |
 | 11/19/21 | [Class](slides/lecture11.pdf) | - | - |
 | 11/26/21 | no lecture (thanksgiving break) | - | - |
+| 12/02/21 | [Stack and Queue](slides/lecture12.pdf) | - | - |
+| 12/10/21 | [Final Exam](exams/final.docx) | - | - |
  
 # Lab and Assignments
 
